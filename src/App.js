@@ -34,7 +34,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🚀 My React AWS Demo</h1>
+        <h1>🚀 My React AWS Demo NEW</h1>
         <p>Built with React • Deployed on S3 • Delivered by CloudFront</p>
         
         {/* Counter Component */}
